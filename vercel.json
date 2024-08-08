@@ -1,4 +1,4 @@
-i{
+{
     "rewrites":  [
         {"source": "/(.*)", "destination": "/indexx.html"}
      ]
