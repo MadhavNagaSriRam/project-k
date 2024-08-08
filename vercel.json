@@ -1,8 +1,5 @@
 {
-    "rewrites": [
-        {
-            "source": "/(.*)",
-            "destination": "/indexx.html"
-        }
-    ]
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
 }
